@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust and WebAssembly**
 
-- 💬 Ask me about **WordPress,PHP,Plugin Development,Theme Development**
+- 💬 Ask me about **WordPress, PHP, Plugin Development, and Theme Development**
 
 - 📫 How to reach me **m.urrego7@gmail.com**
 
