@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauricio</h1>
 <h3 align="center">I'm a WordPress and PHP Developer</h3>
 
-- 🌱 I’m currently learning **Rust/WebAssembly and Vue/Laravel**
+- 🌱 I’m currently working with **Symfony and Vue**
 
 - 💬 Ask me about **WordPress, PHP, Plugin Development, and Theme Development**
 
